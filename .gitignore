@@ -10,3 +10,8 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Downloaded files
+files/*.jpg
+files/*.mp4
+imgo
